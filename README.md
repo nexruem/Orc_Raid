@@ -5,7 +5,7 @@ C드라이브에 압축파일을 풀어 or_resource파일이 생성된 후 실�
 초기화면입니다. 최고점수가 표시되고 스페이스를 눌러 게임을 시작하거나 Q를 눌러 게임을 끌 수 있습니다.   
 점수를 기록하는 것은 텍스트 파일을 활용했습니다.  
 <img width="304" alt="OSS_3" src="https://user-images.githubusercontent.com/71214574/206875934-6702233a-abe9-4879-b7fa-d17576f82b9f.PNG">  
-실행화면입니다. 게이지가 100이 되면 R을 눌러 스킬을 쓸 수 있습니다.   ESC를 누르면 게임을 끄거나 계속하거나 메인메뉴로 돌아갈 수 있습니다.  
+실행화면입니다. 게이지가 100이 되면 R을 눌러 스킬을 쓸 수 있습니다.    ESC를 누르면 게임을 끄거나 계속하거나 메인메뉴로 돌아갈 수 있습니다.  
  ![OSS_6](https://user-images.githubusercontent.com/71214574/206876235-2c78055d-8c23-4c1b-95d6-aa650dc681b6.png)  
 플레이어의 생명력이 떨어지면 게임오버가 되고 다시 게임이 시작됩니다.  
 <img width="301" alt="OSS_5" src="https://user-images.githubusercontent.com/71214574/206876131-96cf47fa-ac45-437a-92e8-645622d170a9.PNG">  
