@@ -84,7 +84,7 @@ def game_loop(surface):
     background = pygame.image.load(os.path.join("C:/or_resource/fightmap.png")).convert()
     background = pygame.transform.scale(background, (SCREEN_WIDTH, SCREEN_HEIGHT))
     bg_rect = background.get_rect()
-    player_image = pygame.image.load(os.path.join("C:/or_resource/Bowman.png")).convert()
+    player_image = pygame.image.load(os.path.join("C:/or_resource/man.png")).convert()
     asteroid_image = []
     asteroid_list = ['orc1.png', 'orc2.png', 'orc3.png', 'orc4.png']
     for img in asteroid_list:
