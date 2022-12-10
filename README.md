@@ -11,4 +11,6 @@
   
 참고  
 https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%8A%88%ED%8C%85-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-SHMUP-%ED%8C%8C%EC%9D%B4%EA%B2%8C%EC%9E%84-%EC%8A%88%ED%8C%85%EA%B2%8C%EC%9E%84%EC%9D%98-%EB%BC%88%EB%8C%80-Sprite-%EA%B0%9D%EC%B2%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0  
-이 곳의 코드를 뼈대로 주로 만들었습니다.
+이 곳의 코드를 뼈대로 주로 만들었습니다.  
+https://merchant-shade.itch.io/16x16-mini-world-sprites  
+이 링크에 있는 리소스의 캐릭터를 썼고 맵을 만들었습니다.  
